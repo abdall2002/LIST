@@ -32,7 +32,7 @@ void Print(List<Country> countries)
         Console.WriteLine(c);
     }
 
-    Console.WriteLine($"Count: {countries.Count}");    // actual count
+    Console.WriteLine($"Count: {countries.Count}");         // actual count
     Console.WriteLine($"Capasity: {countries.Capacity}");   // initial Capacity for inner data structure
 
 }
