@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\bin\Debug\net7.0\CAList.exe
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\bin\Debug\net7.0\CAList.deps.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\bin\Debug\net7.0\CAList.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\bin\Debug\net7.0\CAList.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\bin\Debug\net7.0\CAList.pdb
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\obj\Debug\net7.0\CAList.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\obj\Debug\net7.0\CAList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\obj\Debug\net7.0\CAList.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\obj\Debug\net7.0\CAList.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\obj\Debug\net7.0\CAList.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\obj\Debug\net7.0\CAList.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\obj\Debug\net7.0\refint\CAList.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\obj\Debug\net7.0\CAList.pdb
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\obj\Debug\net7.0\CAList.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAList\obj\Debug\net7.0\ref\CAList.dll
