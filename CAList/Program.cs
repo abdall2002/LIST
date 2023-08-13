@@ -22,7 +22,11 @@ countries.AddRange(countriesArray);
 Print(countries);   // 4, 4
 countries.Insert(1, new Country { ISOCode = "FRA", Name = "France" });  // O(n) Cost, High Complexity
 Print(countries);   // 5, 8
-
+countries.RemoveAt(1);
+Print(countries);   // 4, 8
+countries.RemoveAll(x => x.Name.EndsWith("il"));
+Print(countries);   // 3, 8
+Console.ReadKey();  
 void Print(List<Country> countries)
 {
     // Properties
