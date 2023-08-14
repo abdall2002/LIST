@@ -24,7 +24,7 @@ namespace CAList
             var country = obj as Country;
             if(country is null) 
                 return false;
-            return this.Name.Equals(country.Name, StringComparison.OrdinalIgnoreCase)
+            return this.Name.Equals(country.Name, StringComparison.OrdinalIgnoreCase)  // -> يتم التغاطي عن الاحرف الكبيرة والصغيرة
                 && this.ISOCode.Equals(country.ISOCode, StringComparison.OrdinalIgnoreCase);
           
         }
