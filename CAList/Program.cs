@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using CAList;
+using System.ComponentModel;
 
 var egypt = new Country { ISOCode = "EGY", Name = "Egypt" };
 var jordan = new Country { ISOCode = "JOR", Name = "Jordan" };
@@ -24,8 +25,10 @@ countries.Insert(1, new Country { ISOCode = "FRA", Name = "France" });  // O(n) 
 Print(countries);   // 5, 8
 countries.RemoveAt(1);
 Print(countries);   // 4, 8
-countries.RemoveAll(x => x.Name.EndsWith("il"));
+countries.RemoveAll(x => x.Name.EndsWith("il"));   // -> remove countries with the last 'il'
 Print(countries);   // 3, 8
+countries.Remove(new Country { ISOCode = "IRQ", Name = "Iraq" });  // must override of GetHashCode,Equals
+Print(countries);   // 2, 8
 Console.ReadKey();  
 void Print(List<Country> countries)
 {
