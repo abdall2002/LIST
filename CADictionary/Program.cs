@@ -1,9 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
-
 using CADictionary;
 
+/* Dictionary */
 var article =
     "Dot NET is a free cross-platform and open source developer platform" +
     "for building many different types of applications" +
