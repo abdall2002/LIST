@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\bin\Debug\net7.0\CADictionary.exe
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\bin\Debug\net7.0\CADictionary.deps.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\bin\Debug\net7.0\CADictionary.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\bin\Debug\net7.0\CADictionary.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\bin\Debug\net7.0\CADictionary.pdb
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\obj\Debug\net7.0\CADictionary.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\obj\Debug\net7.0\CADictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\obj\Debug\net7.0\CADictionary.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\obj\Debug\net7.0\CADictionary.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\obj\Debug\net7.0\CADictionary.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\obj\Debug\net7.0\CADictionary.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\obj\Debug\net7.0\refint\CADictionary.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\obj\Debug\net7.0\CADictionary.pdb
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\obj\Debug\net7.0\CADictionary.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CADictionary\obj\Debug\net7.0\ref\CADictionary.dll
