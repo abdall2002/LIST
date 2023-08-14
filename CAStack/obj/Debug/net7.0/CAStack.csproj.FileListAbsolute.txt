@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\bin\Debug\net7.0\CAStack.exe
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\bin\Debug\net7.0\CAStack.deps.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\bin\Debug\net7.0\CAStack.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\bin\Debug\net7.0\CAStack.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\bin\Debug\net7.0\CAStack.pdb
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\obj\Debug\net7.0\CAStack.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\obj\Debug\net7.0\CAStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\obj\Debug\net7.0\CAStack.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\obj\Debug\net7.0\CAStack.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\obj\Debug\net7.0\CAStack.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\obj\Debug\net7.0\CAStack.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\obj\Debug\net7.0\refint\CAStack.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\obj\Debug\net7.0\CAStack.pdb
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\obj\Debug\net7.0\CAStack.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAStack\obj\Debug\net7.0\ref\CAStack.dll

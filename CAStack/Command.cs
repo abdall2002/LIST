@@ -18,7 +18,7 @@ namespace CAStack
         {
             _createdAt = DateTime.Now;
             _url = url;
-        }
+        }   
         public override string ToString()
         {
             return $"[{this._createdAt.ToString("yyyy-MM-dd hh:mm")}] {this._url}";
