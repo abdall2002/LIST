@@ -55,6 +55,7 @@ while(true)
 
 } // end of while
 
+/* Peek */
     Stack<int> numbers = new Stack<int>(new List<int> { 1, 2, 3 });
 
     while (numbers.Count > 0)
@@ -63,7 +64,7 @@ while(true)
 
         Console.WriteLine(n);
     }
- // end of main
+ 
 
 
 
