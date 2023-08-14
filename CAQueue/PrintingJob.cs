@@ -2,10 +2,10 @@
 
 namespace CAQueue
 {
-	public class PrintingJob
+    public class PrintingJob
     {
-		private readonly string _file;
-		private readonly int _copies;
+        private readonly string _file;
+        private readonly int _copies;
 
         public PrintingJob(string file, int copies)
         {
@@ -18,6 +18,4 @@ namespace CAQueue
             return $"{_file} x #{_copies} copies";
         }
     }
-
-	
 }
