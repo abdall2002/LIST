@@ -9,13 +9,23 @@ var lesson4 = new YTVideo { Id = "YTV4", Title = "Iterations", Duration = new Ti
 var lesson5 = new YTVideo { Id = "YTV5", Title = "Generics", Duration = new TimeSpan(00, 20, 00) };
 
 
-LinkedList<YTVideo> playlist = new LinkedList<YTVideo>(new YTVideo[] {
-    lesson1,
-    lesson2,
-    lesson3,
-    lesson4,
-    lesson5
-});
+//LinkedList<YTVideo> playlist = new LinkedList<YTVideo>(new YTVideo[] {
+//    lesson1,
+//    lesson2,
+//    lesson3,
+//    lesson4,
+//    lesson5
+//});
+
+LinkedList<YTVideo> playlist = new LinkedList<YTVideo>();
+playlist.AddFirst(lesson1);
+
+playlist.AddAfter(playlist.First, lesson2);
+var node3 = new LinkedListNode<YTVideo>(lesson3);
+playlist.AddAfter(playlist.First.Next, node3);
+playlist.AddBefore(playlist.Last, lesson4);
+
+playlist.AddLast(lesson5);
 Print("C# from zero to hero", playlist);
 Console.ReadKey();
 void Print(string title, LinkedList<YTVideo> playlist)
