@@ -16,6 +16,11 @@ var customers = new List<Customer>
     new Customer { Name = "Abeer A", Telephone = "+1 123 123 4568" },
     new Customer { Name = "Salem D", Telephone = "+1 123 123 4569" } 
 };
+Console.WriteLine("Hashset");
+Console.WriteLine("-------");
+var custhashSet1 = new HashSet<Customer>(customers);
+foreach (var item in custhashSet1) 
+    Console.WriteLine(item);
 
 
 
