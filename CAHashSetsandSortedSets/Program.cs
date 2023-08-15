@@ -29,7 +29,7 @@ var customers2 = new List<Customer>
 
 var custhashSet2 = new HashSet<Customer>(customers2);
 
-custhashSet1.UnionWith(custhashSet2);
+custhashSet1.UnionWith(custhashSet2);      // للدمج
 
 foreach (var item in custhashSet1) 
     Console.WriteLine(item);
