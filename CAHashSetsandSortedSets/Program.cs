@@ -19,6 +19,18 @@ var customers = new List<Customer>
 Console.WriteLine("Hashset");
 Console.WriteLine("-------");
 var custhashSet1 = new HashSet<Customer>(customers);
+//custhashSet1.Add(new Customer { Name = "Issam X", Telephone = "+1 123 123 4563" });
+
+var customers2 = new List<Customer>
+{
+    new Customer { Name = "Essam A", Telephone = "+1 123 123 4533" },
+    new Customer { Name = "Rim S", Telephone = "+1 123 123 4554" }
+};
+
+var custhashSet2 = new HashSet<Customer>(customers2);
+
+custhashSet1.UnionWith(custhashSet2);
+
 foreach (var item in custhashSet1) 
     Console.WriteLine(item);
 
