@@ -8,7 +8,7 @@ namespace CAHashSetsandSortedSets
         public string Name { get; set; }
         public string Telephone { get; set; }
 
-        public override int GetHashCode()
+        public override int GetHashCode()   // لتجنب التصادم
         {
             var hash = 17;
             hash = hash * 397 + Name.GetHashCode();
