@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+
+using CAQueue;
 using System;
 using System.Collections.Generic;
 
@@ -16,7 +18,7 @@ Console.WriteLine($"Current  Before while Queue Count: {printingJobs.Count}");
 
 
 Random rnd = new Random();
-while(printingJobs.Count > 0)
+while (printingJobs.Count > 0)
 {
     Console.ForegroundColor = ConsoleColor.Green;
     var job = printingJobs.Dequeue();
@@ -33,6 +35,8 @@ if (numbers.TryPeek(out int n))
     Console.WriteLine(n);
 
 }
+
+
 
 
 

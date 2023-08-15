@@ -1,5 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\bin\Debug\net7.0\CAQueue.exe
+C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\bin\Debug\net7.0\CAQueue.deps.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\bin\Debug\net7.0\CAQueue.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\bin\Debug\net7.0\CAQueue.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\bin\Debug\net7.0\CAQueue.pdb
 C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\obj\Debug\net7.0\CAQueue.csproj.AssemblyReference.cache
 C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\obj\Debug\net7.0\CAQueue.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\obj\Debug\net7.0\CAQueue.AssemblyInfoInputs.cache
 C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\obj\Debug\net7.0\CAQueue.AssemblyInfo.cs
 C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\obj\Debug\net7.0\CAQueue.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\obj\Debug\net7.0\CAQueue.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\obj\Debug\net7.0\refint\CAQueue.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\obj\Debug\net7.0\CAQueue.pdb
+C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\obj\Debug\net7.0\CAQueue.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAQueue\obj\Debug\net7.0\ref\CAQueue.dll

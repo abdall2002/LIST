@@ -2,8 +2,8 @@
 
 namespace CAQueue
 {
-    public class PrintingJob
-    {
+	public class PrintingJob
+	{
         private readonly string _file;
         private readonly int _copies;
 
