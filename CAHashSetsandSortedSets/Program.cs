@@ -34,7 +34,14 @@ custhashSet1.UnionWith(custhashSet2);      // للدمج
 foreach (var item in custhashSet1) 
     Console.WriteLine(item);
 
+/* SortedSet */
+Console.WriteLine("SortedSet");
+Console.WriteLine("-------");
 
+var customerSortedSet = new SortedSet<Customer>(customers);
+customerSortedSet.Add(new Customer { Name = "Baker S", Telephone = "+1 123 123 3354" });  // -> add and sort;
+foreach (var item in customerSortedSet) 
+    Console.WriteLine(item);
 
 
 Console.ReadKey();
