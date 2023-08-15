@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\bin\Debug\net7.0\CAHashSetsandSortedSets.exe
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\bin\Debug\net7.0\CAHashSetsandSortedSets.deps.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\bin\Debug\net7.0\CAHashSetsandSortedSets.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\bin\Debug\net7.0\CAHashSetsandSortedSets.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\bin\Debug\net7.0\CAHashSetsandSortedSets.pdb
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\obj\Debug\net7.0\refint\CAHashSetsandSortedSets.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.pdb
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\obj\Debug\net7.0\CAHashSetsandSortedSets.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CAHashSetsandSortedSets\obj\Debug\net7.0\ref\CAHashSetsandSortedSets.dll
