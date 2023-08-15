@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\bin\Debug\net7.0\CALinkedlists.exe
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\bin\Debug\net7.0\CALinkedlists.deps.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\bin\Debug\net7.0\CALinkedlists.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\bin\Debug\net7.0\CALinkedlists.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\bin\Debug\net7.0\CALinkedlists.pdb
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\obj\Debug\net7.0\CALinkedlists.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\obj\Debug\net7.0\CALinkedlists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\obj\Debug\net7.0\CALinkedlists.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\obj\Debug\net7.0\CALinkedlists.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\obj\Debug\net7.0\CALinkedlists.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\obj\Debug\net7.0\CALinkedlists.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\obj\Debug\net7.0\refint\CALinkedlists.dll
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\obj\Debug\net7.0\CALinkedlists.pdb
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\obj\Debug\net7.0\CALinkedlists.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\Solution1\CALinkedlists\obj\Debug\net7.0\ref\CALinkedlists.dll
